@@ -10,6 +10,8 @@
 </div><br/>
 
 ## Update
+**05 Dec 2024**
+* We share the presentation 🎬[video](https://www.youtube.com/watch?v=pQvQkbjaDeM) of our work **RWPM**. 
 **17 July 2024**
 * We share the code of our work **RWPM**. 
 
