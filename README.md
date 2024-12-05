@@ -64,10 +64,12 @@ This code is adapted from [RbA](https://kuis-ai.github.io/RbA/). Many thanks for
 If you find this repository helpful for your research, please consider citing our paper: 
 
 ```bibtex
-@article{zeng2024random,
+@inproceedings{zeng2025random,
   title={Random Walk on Pixel Manifolds for Anomaly Segmentation of Complex Driving Scenes},
   author={Zeng, Zelong and Tomite, Kaname},
-  journal={arXiv preprint arXiv:2404.17961},
-  year={2024}
+  booktitle={European Conference on Computer Vision},
+  pages={306--323},
+  year={2025},
+  organization={Springer}
 }
 ```
