@@ -67,12 +67,18 @@ This code is adapted from [RbA](https://kuis-ai.github.io/RbA/). Many thanks for
 If you find this repository helpful for your research, please consider citing our paper: 
 
 ```bibtex
-@inproceedings{zeng2025random,
-  title={Random Walk on Pixel Manifolds for Anomaly Segmentation of Complex Driving Scenes},
-  author={Zeng, Zelong and Tomite, Kaname},
-  booktitle={European Conference on Computer Vision},
-  pages={306--323},
-  year={2025},
-  organization={Springer}
+@inproceedings{10.1007/978-3-031-72646-0_18,
+author = {Zeng, Zelong and Tomite, Kaname},
+title = {Random Walk on&nbsp;Pixel Manifolds for&nbsp;Anomaly Segmentation of&nbsp;Complex Driving Scenes},
+year = {2024},
+isbn = {978-3-031-72645-3},
+publisher = {Springer-Verlag},
+address = {Berlin, Heidelberg},
+url = {https://doi.org/10.1007/978-3-031-72646-0_18},
+doi = {10.1007/978-3-031-72646-0_18},
+pages = {306–323},
+numpages = {18},
+keywords = {Autonomous vehicles, Anomaly segmentation, Semantic segmentation},
+location = {Milan, Italy}
 }
 ```
