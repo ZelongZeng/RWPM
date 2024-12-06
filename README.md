@@ -69,7 +69,7 @@ If you find this repository helpful for your research, please consider citing ou
 ```bibtex
 @inproceedings{10.1007/978-3-031-72646-0_18,
 author = {Zeng, Zelong and Tomite, Kaname},
-title = {Random Walk on&nbsp;Pixel Manifolds for&nbsp;Anomaly Segmentation of&nbsp;Complex Driving Scenes},
+title = {Random Walk on Pixel Manifolds for Anomaly Segmentation of Complex Driving Scenes},
 year = {2024},
 isbn = {978-3-031-72645-3},
 publisher = {Springer-Verlag},
